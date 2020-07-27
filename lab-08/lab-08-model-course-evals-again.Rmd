@@ -4,7 +4,7 @@ subtitle: "Multiple predictors"
 output: 
   tufte::tufte_html:
     css: ../lab.css
-    tufte_variant: "envisione"
+    tufte_variant: "envisioned"
     highlight: pygments
     toc: yes
 link-citations: yes
